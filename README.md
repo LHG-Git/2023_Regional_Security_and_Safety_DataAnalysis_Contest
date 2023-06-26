@@ -8,7 +8,7 @@
 <h4> 💭 Language : Python <br><br>
      📝 Library : Pandas, Numpy, Matplotlib, Seaborn, Geopandas, Scikit-learn <br><br>
      🛠  Tool : Jupyter <br><br>
-     📅 진행기간 : 2022.09.01 ~ 2022.11.30</h4>
+     📅 진행기간 : 2023.02.01 ~ 2023.02.25</h4>
      
 ### 👨‍👦‍👦 팀원소개
 <table>
